@@ -1,2 +1,3 @@
 # Extracting-and-Visualizing-Stock-Data
-  ``` # This is formatted as code ```  Extracting essential data from a dataset and displaying it is a necessary part of data science; therefore individuals can make correct decisions based on the data. In this assignment, you will extract some stock data, you will then display this data in a graph.
+## Project Overview
+This project focuses on extracting essential financial data from various sources and visualizing it to identify historical patterns and trends. Acting as a Data Scientist/Data Analyst for a startup investment firm, the goal of this project is to extract historical share prices and quarterly revenue reports for specific stocks (Tesla and GameStop) and build a dashboard to present the insights clearly.
